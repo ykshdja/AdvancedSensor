@@ -1,2 +1,2 @@
 # AdvancedSensor
-Lab Advanced Sensors
+Internet of Things - Lab Advanced Sensors
